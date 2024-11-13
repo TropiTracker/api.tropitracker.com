@@ -1,0 +1,17 @@
+{
+  "name": "tropitracker-api",
+  "version": "1.0.0",
+  "description": "The API used by TropiTracker. Allows for easier fetching of active tropical cyclone information by the NHC and includes auto URL generation of cone tracks and satellite imagery.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js",
+    "get": "http get localhost:8484"
+  },
+  "author": "CGray1234",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "express": "^4.21.1",
+    "xml2js": "^0.6.2"
+  }
+}
