@@ -1,0 +1,28 @@
+name: Refresh API
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  refresh-api:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '10.9.0'
+
+      - name: Install dependencies
+        run: |
+          npm install
+
+      - name: Refresh API data
+        run: |
+          npm run test
