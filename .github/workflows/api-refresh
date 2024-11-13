@@ -26,3 +26,13 @@ jobs:
       - name: Refresh API data
         run: |
           npm run test
+
+      - name: Commit updated data
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "Refresh API data"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
