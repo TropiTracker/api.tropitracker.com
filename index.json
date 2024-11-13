@@ -1,0 +1,19 @@
+{
+  "outlooks": {
+    "atlanticOutlook": {
+      "desc": "\n <br />\n 000<br />\n ABNT20 KNHC 131732<br />\n TWOAT <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 100 PM EST Wed Nov 13 2024<br />\n <br />\n For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />\n <br />\n Central and Western Caribbean Sea (AL99):<br />\n A broad area of low pressure over the central Caribbean Sea <br />\n continues to produce a large area of disorganized showers and <br />\n thunderstorms.  Environmental conditions are conducive for <br />\n development, and a tropical depression is likely to form within the <br />\n next day or two while the system moves slowly westward into the <br />\n western Caribbean Sea.  Afterward, further development is likely <br />\n while the disturbance meanders over the western Caribbean Sea <br />\n through the weekend.  The system is expected to turn slowly <br />\n northwestward by early next week. Interests across the western and <br />\n northwestern Caribbean Sea should monitor the progress of this <br />\n system.  Regardless of development, heavy rains are expected over <br />\n Jamaica and the Cayman Islands during the next day or so. For more <br />\n information on this system, including gale warnings, see High Seas <br />\n Forecasts issued by the National Weather Service. An Air Force <br />\n Hurricane Hunter aircraft is scheduled to investigate this system <br />\n tomorrow morning.<br />\n * Formation chance through 48 hours...high...90 percent.<br />\n * Formation chance through 7 days...high...90 percent.<br />\n <br />\n &&<br />\n High Seas Forecasts issued by the National Weather Service<br />\n can be found under AWIPS header NFDHSFAT1, WMO header FZNT01 <br />\n KWBC, and online at ocean.weather.gov/shtml/NFDHSFAT1.php<br />\n <br />\n $$<br />\n Forecaster Kelly<br />\n \n",
+      "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png",
+      "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_atl_7d0.png"
+    },
+    "eastPacificOutlook": {
+      "desc": "\n <br />\n 000<br />\n ABPZ20 KNHC 131724<br />\n TWOEP <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 1000 AM PST Wed Nov 13 2024<br />\n <br />\n For the eastern North Pacific...east of 140 degrees west longitude:<br />\n <br />\n Tropical cyclone formation is not expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Roberts<br />\n \n",
+      "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_pac_2d0.png",
+      "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_pac_7d0.png"
+    },
+    "centralPacificOutlook": {
+      "desc": "\n <br />\n 000<br />\n ACPN50 PHFO 131724<br />\n TWOCP <br />\n <br />\n Tropical Weather Outlook<br />\n NWS Central Pacific Hurricane Center Honolulu HI<br />\n 800 AM HST Wed Nov 13 2024<br />\n <br />\n For the central North Pacific...between 140W and 180W:<br />\n <br />\n No tropical cyclones are expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster TS<br />\n \n",
+      "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_cpac_2d0.png",
+      "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_cpac_7d0.png"
+    }
+  }
+}
