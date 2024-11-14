@@ -20,6 +20,8 @@ jobs:
       - name: Run script to update index.json
         run: npm test
       - name: Commit updated JSON
+        env:
+          GITHUB_TOKEN: ${{ secrets.TROPITRACKER_API }}
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
