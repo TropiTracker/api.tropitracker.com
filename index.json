@@ -18,16 +18,16 @@
   },
   "activeStorms": [
     {
-      "type": "Potential Tropical Cyclone",
+      "type": "Tropical Depression",
       "name": "Nineteen",
       "wallet": "AT4",
       "atcf": "AL192024",
-      "datetime": "1:00 AM EST Thu Nov 14",
-      "wind": "30 mph",
-      "pressure": "1005 mb",
-      "center": "16.0, -81.2",
-      "movement": "W at 12 mph",
-      "headline": " ...LIFE-THREATENING FLASH FLOODING EXPECTED IN HONDURAS LATER THIS WEEK AND OVER THE WEEKEND...",
+      "datetime": "4:00 AM EST Thu Nov 14",
+      "wind": "35 mph",
+      "pressure": "1004 mb",
+      "center": "15.9, -81.7",
+      "movement": "W at 16 mph",
+      "headline": " ...POTENTIAL TROPICAL CYCLONE BECOMES TROPICAL DEPRESSION... ...LIFE-THREATENING FLASH FLOODING EXPECTED IN HONDURAS LATER THIS WEEK AND OVER THE WEEKEND...",
       "coneTrack": "https://www.nhc.noaa.gov/storm_graphics/AT19/AL192024_5day_expCone.png",
       "satelliteGif": "https://cdn.star.nesdis.noaa.gov/FLOATER/data/AL192024/GEOCOLOR/AL192024-GEOCOLOR-1000x1000.gif",
       "irSatelliteGif": "https://cdn.star.nesdis.noaa.gov/FLOATER/data/AL192024/13/AL192024-13-1000x1000.gif"
