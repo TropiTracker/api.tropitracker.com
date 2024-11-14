@@ -1,4 +1,4 @@
-name: Update JSON File
+name: Auto-update API
 on:
   schedule:
     - cron: '*/5 * * * *'
@@ -19,15 +19,18 @@ jobs:
           node-version: 23
       - name: Install dependencies
         run: npm install
-      - name: Run script to update index.json
+      - name: Run script to update API
         run: npm test
-      - name: Commit updated JSON
+      - name: Commit updated JSON files
         env:
           GH_TOKEN: ${{ secrets.TROPITRACKER_API }}
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add index.json
+          git add outlooks.json
+          git add hurricanes.json
           git add tropical-storms.json
+          git add tropical-depressions.json
           git commit -m "Auto-update API"
           git push
