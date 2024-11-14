@@ -27,7 +27,10 @@
       "pressure": "1005 mb",
       "center": "16.1, -79.5",
       "movement": "W at 6 mph",
-      "headline": " ...LIFE-THREATENING FLASH FLOODING EXPECTED IN HONDURAS LATER THIS  WEEK AND OVER THE WEEKEND..."
+      "headline": " ...LIFE-THREATENING FLASH FLOODING EXPECTED IN HONDURAS LATER THIS  WEEK AND OVER THE WEEKEND...",
+      "coneTrack": "https://www.nhc.noaa.gov/storm_graphics/AT19/AL192024_5day_expCone.png",
+      "satelliteUrl": "https://cdn.star.nesdis.noaa.gov/FLOATER/data/AL192024/GEOCOLOR/AL192024-GEOCOLOR-1000x1000.gif",
+      "IrSatUrl": "https://cdn.star.nesdis.noaa.gov/FLOATER/data/AL192024/13/AL192024-13-1000x1000.gif"
     }
   ]
 }
