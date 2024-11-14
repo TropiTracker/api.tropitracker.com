@@ -1,7 +1,7 @@
 {
   "outlooks": {
     "atlanticOutlook": {
-      "desc": "\n <br />\n 000<br />\n ABNT20 KNHC 141129<br />\n TWOAT <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 700 AM EST Thu Nov 14 2024<br />\n <br />\n For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />\n <br />\n Active systems:<br />\n The National Hurricane Center is issuing advisories on recently <br />\n formed Tropical Depression Nineteen, located over the western <br />\n Caribbean Sea.<br />\n <br />\n Tropical cyclone formation is not expected in the next 7 days.<br />\n <br />\n &&<br />\n Public Advisories on Tropical Depression Nineteen are issued <br />\n under WMO header WTNT34 KNHC and under AWIPS header MIATCPAT4.<br />\n Forecast/Advisories on Tropical Depression Nineteen are <br />\n issued under WMO header WTNT24 KNHC and under AWIPS header <br />\n MIATCMAT4.<br />\n <br />\n $$<br />\n Forecaster Kelly<br />\n \n",
+      "desc": "\n <br />\n 994 <br />\n ABNT20 KNHC 141746<br />\n TWOAT <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 100 PM EST Thu Nov 14 2024<br />\n <br />\n For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />\n <br />\n Active systems:<br />\n The National Hurricane Center is issuing advisories on recently <br />\n upgraded Tropical Storm Sara, located near northeastern Honduras. <br />\n <br />\n Tropical cyclone formation is not expected in the next 7 days.<br />\n <br />\n &&<br />\n Public Advisories on Tropical Storm Sara are issued under WMO header <br />\n WTNT34 KNHC and under AWIPS header MIATCPAT4.<br />\n Forecast/Advisories on Tropical Storm Sara are issued under WMO <br />\n header WTNT24 KNHC and under AWIPS header MIATCMAT4.<br />\n <br />\n $$<br />\n Forecaster Brown<br />\n <br />\n \n",
       "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png",
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_atl_7d0.png"
     },
@@ -18,16 +18,16 @@
   },
   "activeStorms": [
     {
-      "type": "Tropical Depression",
-      "name": "Nineteen",
+      "type": "Tropical Storm",
+      "name": "Sara",
       "wallet": "AT4",
       "atcf": "AL192024",
-      "datetime": "10:00 AM EST Thu Nov 14",
-      "wind": "35 mph",
-      "pressure": "1004 mb",
-      "center": "15.7, -82.6",
-      "movement": "W at 14 mph",
-      "headline": " ...LIFE-THREATENING AND POTENTIALLY CATASTROPHIC FLASH FLOODING AND  MUDSLIDES EXPECTED IN HONDURAS THROUGH THE WEEKEND...",
+      "datetime": "1:00 PM EST Thu Nov 14",
+      "wind": "40 mph",
+      "pressure": "999 mb",
+      "center": "15.7, -82.9",
+      "movement": "W at 12 mph",
+      "headline": " ...DEPRESSION STRENGTHENS INTO TROPICAL STORM SARA... ...LIFE-THREATENING AND POTENTIALLY CATASTROPHIC FLASH FLOODING AND MUDSLIDES EXPECTED IN HONDURAS THROUGH THE WEEKEND...",
       "coneTrack": "https://www.nhc.noaa.gov/storm_graphics/AT19/AL192024_5day_expCone.png",
       "satelliteGif": "https://cdn.star.nesdis.noaa.gov/FLOATER/data/AL192024/GEOCOLOR/AL192024-GEOCOLOR-1000x1000.gif",
       "irSatelliteGif": "https://cdn.star.nesdis.noaa.gov/FLOATER/data/AL192024/13/AL192024-13-1000x1000.gif"
