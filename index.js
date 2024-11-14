@@ -35,10 +35,10 @@ async function loadApi() {
 loadApi();
 
 async function loadHurricanes() {
-    const activeStorms = await cyclones.functions.getHurricanes();
+    const activeHurricanes = await cyclones.functions.getHurricanes();
 
     jsonHurricanes = {
-        activeStorms
+        activeHurricanes
     }
 
     fs.writeFileSync('hurricanes.json', JSON.stringify(jsonHurricanes, null, 2));
