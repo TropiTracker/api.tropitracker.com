@@ -31,10 +31,10 @@ async function loadApi() {
 
 loadApi();
 
-app.get('/index.json', async (req, res) => {
-    res.json(json); // ngl i dont even know if this is necessary
-})
+// app.get('/index.json', async (req, res) => {
+//     res.json(json); // ngl i dont even know if this is necessary
+// })
 
-app.listen(port, () => {
-    console.log(`Listening on port ${port}`);
-})
+// app.listen(port, () => {
+//     console.log(`Listening on port ${port}`);
+// })
