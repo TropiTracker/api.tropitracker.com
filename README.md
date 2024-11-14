@@ -1,6 +1,14 @@
 # TropiTracker API
 This is the API that is (or will be) used by TropiTracker. All information is fetched from the NHC.
 
+> [!WARNING]
+> This API is a WIP and is not finished. Because of this, it is discouraged that you use this API in any official manner.
+
+# Using
+To use this in your applications, simply fetch https://api.tropitracker.com/index.json. 
+
+> [!NOTE]
+> There will be other ways to fetch individual products (ex fetching only hurricanes or only outlooks, etc), but as of now, you can only fetch the index.
 # Capabilities
 As of now, the API stores:
 
@@ -24,6 +32,3 @@ As of now, the API stores:
     - Cone tracks (in experimental form, shows how far inland the warnings go)
     - Satellite gif of storm
     - Infrared satellite gif of storm
-
-> [!NOTE]
-> This API is a WIP and is far from finished. It is discouraged that you use this API in any official manner.
