@@ -9,6 +9,7 @@ outlooks.functions.init();
 cyclones.functions.init();
 
 var json;
+var jsonTropicalStorms;
 
 async function loadApi() {
     const atlanticOutlook = await outlooks.functions.getAtlanticOutlook();
@@ -31,12 +32,28 @@ async function loadApi() {
 
 loadApi();
 
-// De-note when testing
-//
-// app.get('/index.json', async (req, res) => {
-//     res.json(json);
-// })
+async function loadTropicalStorms() {
+    const activeStorms = await cyclones.functions.getTropicalStorms();
 
-// app.listen(port, () => {
-//     console.log(`Listening on port ${port}`);
-// })
+    jsonTropicalStorms = {
+        activeStorms
+    }
+
+    fs.writeFileSync('tropical-storms.json', JSON.stringify(jsonTropicalStorms, null, 2));
+}
+
+loadTropicalStorms();
+
+// De-note when testing
+
+app.get('/index.json', async (req, res) => {
+    res.json(json);
+})
+
+app.get('/tropical-storms.json', async (req, res) => {
+    res.json(jsonTropicalStorms);
+})
+
+app.listen(port, () => {
+    console.log(`Listening on port ${port}`);
+})
