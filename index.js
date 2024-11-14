@@ -72,6 +72,24 @@ async function loadTropicalDepressions() {
 
 loadTropicalDepressions();
 
+async function loadOutlooks() {
+    const atlanticOutlook = await outlooks.functions.getAtlanticOutlook();
+    const eastPacificOutlook = await outlooks.functions.getEastPacificOutlook();
+    const centralPacificOutlook = await outlooks.functions.getCentralPacificOutlook();
+
+    json = {
+        outlooks: {
+            atlanticOutlook: atlanticOutlook, 
+            eastPacificOutlook: eastPacificOutlook, 
+            centralPacificOutlook: centralPacificOutlook
+        }
+    }
+
+    fs.writeFileSync('outlooks.json', JSON.stringify(json, null, 2));
+}
+
+loadOutlooks();
+
 // De-note when testing
 
 // app.get('/index.json', async (req, res) => {

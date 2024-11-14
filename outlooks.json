@@ -1,0 +1,19 @@
+{
+  "outlooks": {
+    "atlanticOutlook": {
+      "desc": "\n <br />\n 994 <br />\n ABNT20 KNHC 141746<br />\n TWOAT <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 100 PM EST Thu Nov 14 2024<br />\n <br />\n For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />\n <br />\n Active systems:<br />\n The National Hurricane Center is issuing advisories on recently <br />\n upgraded Tropical Storm Sara, located near northeastern Honduras. <br />\n <br />\n Tropical cyclone formation is not expected in the next 7 days.<br />\n <br />\n &&<br />\n Public Advisories on Tropical Storm Sara are issued under WMO header <br />\n WTNT34 KNHC and under AWIPS header MIATCPAT4.<br />\n Forecast/Advisories on Tropical Storm Sara are issued under WMO <br />\n header WTNT24 KNHC and under AWIPS header MIATCMAT4.<br />\n <br />\n $$<br />\n Forecaster Brown<br />\n <br />\n \n",
+      "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png",
+      "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_atl_7d0.png"
+    },
+    "eastPacificOutlook": {
+      "desc": "\n <br />\n 000<br />\n ABPZ20 KNHC 141705<br />\n TWOEP <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 1000 AM PST Thu Nov 14 2024<br />\n <br />\n For the eastern North Pacific...east of 140 degrees west longitude:<br />\n <br />\n Tropical cyclone formation is not expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Brown<br />\n \n",
+      "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_pac_2d0.png",
+      "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_pac_7d0.png"
+    },
+    "centralPacificOutlook": {
+      "desc": "\n <br />\n 000<br />\n ACPN50 PHFO 141706<br />\n TWOCP <br />\n <br />\n Tropical Weather Outlook<br />\n NWS Central Pacific Hurricane Center Honolulu HI<br />\n 800 AM HST Thu Nov 14 2024<br />\n <br />\n For the central North Pacific...between 140W and 180W:<br />\n <br />\n No tropical cyclones are expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Tsamous<br />\n \n",
+      "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_cpac_2d0.png",
+      "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_cpac_7d0.png"
+    }
+  }
+}
