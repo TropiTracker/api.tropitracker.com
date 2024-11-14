@@ -31,8 +31,10 @@ async function loadApi() {
 
 loadApi();
 
+// De-note when testing
+//
 // app.get('/index.json', async (req, res) => {
-//     res.json(json); // ngl i dont even know if this is necessary
+//     res.json(json);
 // })
 
 // app.listen(port, () => {
