@@ -5,10 +5,16 @@ This is the API that is (or will be) used by TropiTracker. All information is fe
 > This API is currently unfinished and in a very rudimentary state. Because of this, it is discouraged that you use this API in any official manner.
 
 # Using
-To use this in your applications, simply fetch https://api.tropitracker.com/index.json. 
+To get all outlooks, active tropical cyclones, & potential tropical cyclones, fetch https://api.tropitracker.com/.json
 
-> [!NOTE]
-> There will be other ways to fetch individual products (ex fetching only hurricanes or only outlooks, etc), but as of now, you can only fetch the index.
+To get all active hurricanes, fetch https://api.tropitracker.com/hurricanes.json
+
+To get all active tropical storms, fetch https://api.tropitracker.com/tropical-storms.json
+
+To get all active tropical depressions and potential tropical cyclones, fetch https://api.tropitracker.com/tropical-depressions.json
+
+To get all tropical outlooks, fetch https://api.tropitracker.com/outlooks.json
+
 # Capabilities
 As of now, the API stores:
 
@@ -25,6 +31,7 @@ As of now, the API stores:
     - Storm wallet
     - Latest advisory update time/date
     - Max sustained wind speeds
+    - Category (based off of the Saffir-Simpson scale)
     - Min pressure
     - Storm movement
     - Storm location
