@@ -29,5 +29,5 @@ jobs:
           git config --global user.email "github-actions@github.com"
           git add index.json
           git add tropical-storms.json
-          git commit -m "Auto-pdate API"
+          git commit -m "Auto-update API"
           git push
