@@ -63,8 +63,8 @@ async function loadTropicalDepressions() {
     const potentialCyclones = await cyclones.functions.getPotentialCyclones();
 
     jsonTropicalDepressions = {
-        activeDepressions,
-        potentialCyclones
+        activeDepressions: activeDepressions,
+        potentialCyclones: potentialCyclones
     }
 
     fs.writeFileSync('tropical-depressions.json', JSON.stringify(jsonTropicalDepressions, null, 2));
