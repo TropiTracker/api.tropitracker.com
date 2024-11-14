@@ -46,14 +46,14 @@ loadTropicalStorms();
 
 // De-note when testing
 
-app.get('/index.json', async (req, res) => {
-    res.json(json);
-})
+// app.get('/index.json', async (req, res) => {
+//     res.json(json);
+// })
 
-app.get('/tropical-storms.json', async (req, res) => {
-    res.json(jsonTropicalStorms);
-})
+// app.get('/tropical-storms.json', async (req, res) => {
+//     res.json(jsonTropicalStorms);
+// })
 
-app.listen(port, () => {
-    console.log(`Listening on port ${port}`);
-})
+// app.listen(port, () => {
+//     console.log(`Listening on port ${port}`);
+// })
