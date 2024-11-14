@@ -2,7 +2,7 @@
 This is the API that is (or will be) used by TropiTracker. All information is fetched from the NHC.
 
 > [!WARNING]
-> This API is currently in a very rudimentary state. Because of this, it is discouraged that you use this API in any official manner.
+> This API is currently unfinished and in a very rudimentary state. Because of this, it is discouraged that you use this API in any official manner.
 
 # Using
 To use this in your applications, simply fetch https://api.tropitracker.com/index.json. 
