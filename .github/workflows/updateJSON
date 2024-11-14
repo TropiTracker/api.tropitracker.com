@@ -17,13 +17,13 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '23.1.0'
+          node-version: '23'
 
       - name: Install dependencies
         run: npm install
 
       - name: Run script to update index.json
-        run: node index.js
+        run: npm test
 
       - name: Commit updated JSON
         run: |
