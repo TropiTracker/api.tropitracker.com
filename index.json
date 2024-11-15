@@ -1,7 +1,7 @@
 {
   "outlooks": {
     "atlanticOutlook": {
-      "desc": "\n <br />\n 000<br />\n ABNT20 KNHC 142313<br />\n TWOAT <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 700 PM EST Thu Nov 14 2024<br />\n <br />\n For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />\n <br />\n Active systems:<br />\n The National Hurricane Center is issuing advisories on Tropical <br />\n Storm Sara, located near northeastern Honduras. <br />\n <br />\n Tropical cyclone formation is not expected in the next 7 days.<br />\n <br />\n &&<br />\n Public Advisories on Tropical Storm Sara are issued under WMO header <br />\n WTNT34 KNHC and under AWIPS header MIATCPAT4.<br />\n Forecast/Advisories on Tropical Storm Sara are issued under WMO <br />\n header WTNT24 KNHC and under AWIPS header MIATCMAT4.<br />\n <br />\n $$<br />\n Forecaster Roberts<br />\n \n",
+      "desc": "\n <br />\n 000<br />\n ABNT20 KNHC 150542<br />\n TWOAT <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 100 AM EST Fri Nov 15 2024<br />\n <br />\n For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />\n <br />\n Active systems:<br />\n The National Hurricane Center is issuing advisories on Tropical <br />\n Storm Sara, located near the coast of northeastern Honduras. <br />\n <br />\n Tropical cyclone formation is not expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Beven<br />\n \n",
       "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png",
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_atl_7d0.png"
     },
@@ -22,13 +22,13 @@
       "name": "Sara",
       "wallet": "AT4",
       "atcf": "AL192024",
-      "datetime": "10:00 PM EST Thu Nov 14",
+      "datetime": "1:00 AM EST Fri Nov 15",
       "wind": 45,
       "category": null,
       "pressure": "999 mb",
-      "center": "15.8, -84.5",
+      "center": "15.8, -84.8",
       "movement": "W at 10 mph",
-      "headline": " ...AIR FORCE HURRICANE HUNTERS FIND SARA JUST INLAND ALONG THE NORTHEASTERN COAST OF HONDURAS... ...LIFE-THREATENING AND POTENTIALLY CATASTROPHIC FLASH FLOODING AND MUDSLIDES EXPECTED IN HONDURAS THROUGH THE WEEKEND...",
+      "headline": " ...SARA MOVING SLOWLY WESTWARD JUST INLAND ALONG THE NORTHEASTERN  COAST OF HONDURAS... ...LIFE-THREATENING AND POTENTIALLY CATASTROPHIC FLASH FLOODING AND MUDSLIDES WILL CONTINUE IN HONDURAS THROUGH THE WEEKEND...",
       "coneTrack": "https://www.nhc.noaa.gov/storm_graphics/AT19/AL192024_5day_expCone.png",
       "satelliteGif": "https://cdn.star.nesdis.noaa.gov/FLOATER/data/AL192024/GEOCOLOR/AL192024-GEOCOLOR-1000x1000.gif",
       "irSatelliteGif": "https://cdn.star.nesdis.noaa.gov/FLOATER/data/AL192024/13/AL192024-13-1000x1000.gif"
