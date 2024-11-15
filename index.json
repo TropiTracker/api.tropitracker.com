@@ -18,17 +18,17 @@
   },
   "activeStorms": [
     {
-      "type": "TROPICAL STORM",
+      "type": "Tropical Storm",
       "name": "Sara",
       "wallet": "AT4",
       "atcf": "AL192024",
-      "datetime": "9:00 AM CST Fri Nov 15",
+      "datetime": "12:00 PM CST Fri Nov 15",
       "wind": 50,
       "category": null,
       "pressure": "997 mb",
-      "center": "16.1, -86.0",
-      "movement": "W at 5 mph",
-      "headline": " ...SARA SLOWING DOWN BETWEEN THE BAY ISLANDS AND NORTHERN MAINLAND OF HONDURAS... ...CATASTROPHIC FLOODING AND MUDSLIDES ONGOING FOR PORTIONS OF CENTRAL AMERICA...",
+      "center": "16.1, -86.1",
+      "movement": "W at 2 mph",
+      "headline": " ...SARA MEANDERING NEAR THE NORTHERN COAST OF HONDURAS... ...CATASTROPHIC FLOODING AND MUDSLIDES ONGOING FOR PORTIONS OF CENTRAL AMERICA...",
       "coneTrack": "https://www.nhc.noaa.gov/storm_graphics/AT19/AL192024_5day_expCone.png",
       "satelliteGif": "https://cdn.star.nesdis.noaa.gov/FLOATER/data/AL192024/GEOCOLOR/AL192024-GEOCOLOR-1000x1000.gif",
       "irSatelliteGif": "https://cdn.star.nesdis.noaa.gov/FLOATER/data/AL192024/13/AL192024-13-1000x1000.gif"
