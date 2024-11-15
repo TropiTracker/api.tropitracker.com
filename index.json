@@ -1,12 +1,12 @@
 {
   "outlooks": {
     "atlanticOutlook": {
-      "desc": "\n <br />\n 000<br />\n ABNT20 KNHC 151134<br />\n TWOAT <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 700 AM EST Fri Nov 15 2024<br />\n <br />\n For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />\n <br />\n Active systems:<br />\n The National Hurricane Center is issuing advisories on Tropical <br />\n Storm Sara, located near the northern coast of Honduras. <br />\n <br />\n Tropical cyclone formation is not expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Kelly<br />\n \n",
+      "desc": "\n <br />\n 000<br />\n ABNT20 KNHC 151737<br />\n TWOAT <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 100 PM EST Fri Nov 15 2024<br />\n <br />\n For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />\n <br />\n Active systems:<br />\n The National Hurricane Center is issuing advisories on Tropical <br />\n Storm Sara, located near the northern coast of Honduras. <br />\n <br />\n Tropical cyclone formation is not expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Papin<br />\n \n",
       "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png",
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_atl_7d0.png"
     },
     "eastPacificOutlook": {
-      "desc": "\n <br />\n 000<br />\n ABPZ20 KNHC 151133<br />\n TWOEP <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 400 AM PST Fri Nov 15 2024<br />\n <br />\n For the eastern North Pacific...east of 140 degrees west longitude:<br />\n <br />\n Tropical cyclone formation is not expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Kelly<br />\n \n",
+      "desc": "\n <br />\n 000<br />\n ABPZ20 KNHC 151739<br />\n TWOEP <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 1000 AM PST Fri Nov 15 2024<br />\n <br />\n For the eastern North Pacific...east of 140 degrees west longitude:<br />\n <br />\n Central East Pacific:<br />\n An area of low pressure currently located several hundred <br />\n miles southwest of the coast of southwestern Mexico is producing <br />\n disorganized shower and thunderstorm activity. Environmental <br />\n conditions appear marginally favorable for some slow development of <br />\n this system as it moves slowly east-northeastward towards the <br />\n southwestern coast of Mexico.<br />\n * Formation chance through 48 hours...low...10 percent.<br />\n * Formation chance through 7 days...low...10 percent.<br />\n <br />\n $$<br />\n Forecaster Papin<br />\n \n",
       "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_pac_2d0.png",
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_pac_7d0.png"
     },
