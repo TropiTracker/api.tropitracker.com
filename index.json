@@ -18,17 +18,17 @@
   },
   "activeStorms": [
     {
-      "type": "TROPICAL STORM",
+      "type": "Tropical Storm",
       "name": "Sara",
       "wallet": "AT4",
       "atcf": "AL192024",
-      "datetime": "3:00 AM CST Fri Nov 15",
-      "wind": 45,
+      "datetime": "6:15 AM CST Fri Nov 15",
+      "wind": 50,
       "category": null,
-      "pressure": "999 mb",
-      "center": "16.0, -85.1",
+      "pressure": "998 mb",
+      "center": "16.1, -85.5",
       "movement": "W at 9 mph",
-      "headline": " ...SARA MOVING SLOWLY WESTWARD ALONG THE NORTH COAST OF HONDURAS... ...LIFE-THREATENING AND POTENTIALLY CATASTROPHIC FLASH FLOODING AND MUDSLIDES WILL CONTINUE IN HONDURAS THROUGH THE WEEKEND...",
+      "headline": " ...TROPICAL STORM WATCH ISSUED FOR A PORTION OF THE COAST OF  BELIZE...",
       "coneTrack": "https://www.nhc.noaa.gov/storm_graphics/AT19/AL192024_5day_expCone.png",
       "satelliteGif": "https://cdn.star.nesdis.noaa.gov/FLOATER/data/AL192024/GEOCOLOR/AL192024-GEOCOLOR-1000x1000.gif",
       "irSatelliteGif": "https://cdn.star.nesdis.noaa.gov/FLOATER/data/AL192024/13/AL192024-13-1000x1000.gif"
