@@ -1,17 +1,17 @@
 {
   "activeStorms": [
     {
-      "type": "TROPICAL STORM",
+      "type": "Tropical Storm",
       "name": "Sara",
       "wallet": "AT4",
       "atcf": "AL192024",
-      "datetime": "3:00 PM CST Sat Nov 16",
+      "datetime": "6:00 PM CST Sat Nov 16",
       "wind": 45,
       "category": null,
       "pressure": "1000 mb",
-      "center": "16.4, -87.0",
+      "center": "16.5, -87.2",
       "movement": "W at 5 mph",
-      "headline": " ...SARA IN THE GULF OF HONDURAS SLIDING TOWARDS BELIZE... ...LIFE-THREATENING CATASTROPHIC FLOODING AND MUDSLIDES CONTINUE OVER PORTIONS OF CENTRAL AMERICA...",
+      "headline": " ...AIR FORCE HURRICANE HUNTER AIRCRAFT NEAR SARA... ...LIFE-THREATENING CATASTROPHIC FLOOD AND MUDSLIDE THREAT REMAINS OVER PORTIONS OF CENTRAL AMERICA...",
       "coneTrack": "https://www.nhc.noaa.gov/storm_graphics/AT19/AL192024_5day_expCone.png",
       "satelliteGif": "https://cdn.star.nesdis.noaa.gov/FLOATER/data/AL192024/GEOCOLOR/AL192024-GEOCOLOR-1000x1000.gif",
       "irSatelliteGif": "https://cdn.star.nesdis.noaa.gov/FLOATER/data/AL192024/13/AL192024-13-1000x1000.gif"
