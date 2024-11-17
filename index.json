@@ -18,17 +18,17 @@
   },
   "activeStorms": [
     {
-      "type": "Tropical Depression",
+      "type": "TROPICAL DEPRESSION",
       "name": "Sara",
       "wallet": "AT4",
       "atcf": "AL192024",
-      "datetime": "12:00 PM CST Sun Nov 17",
+      "datetime": "3:00 PM CST Sun Nov 17",
       "wind": 35,
       "category": null,
       "pressure": "1003 mb",
-      "center": "17.4, -89.0",
-      "movement": "WNW at 8 mph",
-      "headline": " ...SARA WEAKENS TO A TROPICAL DEPRESSION... ...ALL TROPICAL STORM WARNINGS DISCONTINUED BUT HEAVY RAINFALL  CONTINUES OVER PORTIONS OF THE YUCATAN PENINSULA...",
+      "center": "17.8, -89.5",
+      "movement": "WNW at 12 mph",
+      "headline": " ...SARA STILL ASSOCIATED WITH HEAVY RAINFALL OVER PORTIONS OF THE YUCATAN PENINSULA AND CENTRAL AMERICA...",
       "coneTrack": "https://www.nhc.noaa.gov/storm_graphics/AT19/AL192024_5day_expCone.png",
       "satelliteGif": "https://cdn.star.nesdis.noaa.gov/FLOATER/data/AL192024/GEOCOLOR/AL192024-GEOCOLOR-1000x1000.gif",
       "irSatelliteGif": "https://cdn.star.nesdis.noaa.gov/FLOATER/data/AL192024/13/AL192024-13-1000x1000.gif"
