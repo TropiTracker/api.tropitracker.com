@@ -1,7 +1,7 @@
 {
   "outlooks": {
     "atlanticOutlook": {
-      "desc": "\n <br />\n 000<br />\n ABNT20 KNHC 171124<br />\n TWOAT <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 700 AM EST Sun Nov 17 2024<br />\n <br />\n For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />\n <br />\n Active systems:<br />\n The National Hurricane Center is issuing advisories on Tropical <br />\n Storm Sara, located near the coast of Belize. <br />\n <br />\n Tropical cyclone formation is not expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Kelly<br />\n \n",
+      "desc": "\n <br />\n 000<br />\n ABNT20 KNHC 171736<br />\n TWOAT <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 100 PM EST Sun Nov 17 2024<br />\n <br />\n For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />\n <br />\n Active systems:<br />\n The National Hurricane Center is issuing advisories on recently <br />\n downgraded Tropical Depression Sara, located inland over the <br />\n southern Yucatan Peninsula. <br />\n <br />\n Tropical cyclone formation is not expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Kelly<br />\n \n",
       "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png",
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_atl_7d0.png"
     },
@@ -18,17 +18,17 @@
   },
   "activeStorms": [
     {
-      "type": "TROPICAL STORM",
+      "type": "Tropical Depression",
       "name": "Sara",
       "wallet": "AT4",
       "atcf": "AL192024",
-      "datetime": "9:00 AM CST Sun Nov 17",
-      "wind": 40,
+      "datetime": "12:00 PM CST Sun Nov 17",
+      "wind": 35,
       "category": null,
-      "pressure": "1001 mb",
-      "center": "17.1, -88.4",
-      "movement": "WNW at 6 mph",
-      "headline": " ...SARA NOW JUST INLAND OVER BELIZE... ...HEAVY RAINFALL TO CONTINUE AS IT MOVES INLAND OVER PORTIONS OF THE YUCATAN PENINSULA...",
+      "pressure": "1003 mb",
+      "center": "17.4, -89.0",
+      "movement": "WNW at 8 mph",
+      "headline": " ...SARA WEAKENS TO A TROPICAL DEPRESSION... ...ALL TROPICAL STORM WARNINGS DISCONTINUED BUT HEAVY RAINFALL  CONTINUES OVER PORTIONS OF THE YUCATAN PENINSULA...",
       "coneTrack": "https://www.nhc.noaa.gov/storm_graphics/AT19/AL192024_5day_expCone.png",
       "satelliteGif": "https://cdn.star.nesdis.noaa.gov/FLOATER/data/AL192024/GEOCOLOR/AL192024-GEOCOLOR-1000x1000.gif",
       "irSatelliteGif": "https://cdn.star.nesdis.noaa.gov/FLOATER/data/AL192024/13/AL192024-13-1000x1000.gif"
