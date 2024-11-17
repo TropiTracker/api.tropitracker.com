@@ -1,7 +1,7 @@
 {
   "outlooks": {
     "atlanticOutlook": {
-      "desc": "\n <br />\n 294 <br />\n ABNT20 KNHC 162339<br />\n TWOAT <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 700 PM EST Sat Nov 16 2024<br />\n <br />\n For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />\n <br />\n Active systems:<br />\n The National Hurricane Center is issuing advisories on Tropical <br />\n Storm Sara, located near the Bay Islands of Honduras. <br />\n <br />\n Tropical cyclone formation is not expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Reinhart<br />\n <br />\n \n",
+      "desc": "\n <br />\n 000<br />\n ABNT20 KNHC 170532<br />\n TWOAT <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 100 AM EST Sun Nov 17 2024<br />\n <br />\n For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />\n <br />\n Active systems:<br />\n The National Hurricane Center is issuing advisories on Tropical <br />\n Storm Sara, located near the coast of Belize. <br />\n <br />\n Tropical cyclone formation is not expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Cangialosi<br />\n \n",
       "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png",
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_atl_7d0.png"
     },
@@ -11,24 +11,24 @@
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_pac_7d0.png"
     },
     "centralPacificOutlook": {
-      "desc": "\n <br />\n 000<br />\n ACPN50 PHFO 162349<br />\n TWOCP <br />\n <br />\n Tropical Weather Outlook<br />\n NWS Central Pacific Hurricane Center Honolulu HI<br />\n 200 PM HST Sat Nov 16 2024<br />\n <br />\n For the central North Pacific...between 140W and 180W:<br />\n <br />\n No tropical cyclones are expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Kino<br />\n \n",
+      "desc": "\n <br />\n 000<br />\n ACPN50 PHFO 170519<br />\n TWOCP <br />\n <br />\n Tropical Weather Outlook<br />\n NWS Central Pacific Hurricane Center Honolulu HI<br />\n 800 PM HST Sat Nov 16 2024<br />\n <br />\n For the central North Pacific...between 140W and 180W:<br />\n <br />\n No tropical cyclones are expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Blood<br />\n \n",
       "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_cpac_2d0.png",
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_cpac_7d0.png"
     }
   },
   "activeStorms": [
     {
-      "type": "TROPICAL STORM",
+      "type": "Tropical Storm",
       "name": "Sara",
       "wallet": "AT4",
       "atcf": "AL192024",
-      "datetime": "9:00 PM CST Sat Nov 16",
+      "datetime": "12:00 AM CST Sun Nov 17",
       "wind": 40,
       "category": null,
-      "pressure": "1001 mb",
-      "center": "16.5, -87.3",
+      "pressure": "1002 mb",
+      "center": "16.6, -87.6",
       "movement": "WNW at 5 mph",
-      "headline": " ...POTENTIALLY CATASTROPHIC FLOOD AND MUDSLIDE THREAT CONTINUES  OVER PORTIONS OF CENTRAL AMERICA...",
+      "headline": " ...SARA CONTINUES TO PRODUCE POTENTIALLY CATASTROPHIC FLOODING OVER PORTIONS OF CENTRAL AMERICA...",
       "coneTrack": "https://www.nhc.noaa.gov/storm_graphics/AT19/AL192024_5day_expCone.png",
       "satelliteGif": "https://cdn.star.nesdis.noaa.gov/FLOATER/data/AL192024/GEOCOLOR/AL192024-GEOCOLOR-1000x1000.gif",
       "irSatelliteGif": "https://cdn.star.nesdis.noaa.gov/FLOATER/data/AL192024/13/AL192024-13-1000x1000.gif"
