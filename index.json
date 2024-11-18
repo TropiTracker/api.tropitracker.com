@@ -15,23 +15,5 @@
       "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_cpac_2d0.png",
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_cpac_7d0.png"
     }
-  },
-  "activeStorms": [
-    {
-      "type": "REMNANTS OF",
-      "name": "Sara",
-      "wallet": "AT4",
-      "atcf": "AL192024",
-      "datetime": "3:00 AM CST Mon Nov 18",
-      "wind": 30,
-      "category": null,
-      "pressure": "1005 mb",
-      "center": "19.0, -91.5",
-      "movement": "NW at 13 mph",
-      "headline": " ...SARA DISSIPATES... ...THIS IS THE LAST NHC ADVISORY...",
-      "coneTrack": "https://www.nhc.noaa.gov/storm_graphics/AT19/AL192024_5day_expCone.png",
-      "satelliteGif": "https://cdn.star.nesdis.noaa.gov/FLOATER/data/AL192024/GEOCOLOR/AL192024-GEOCOLOR-1000x1000.gif",
-      "irSatelliteGif": "https://cdn.star.nesdis.noaa.gov/FLOATER/data/AL192024/13/AL192024-13-1000x1000.gif"
-    }
-  ]
+  }
 }
