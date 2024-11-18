@@ -1,7 +1,7 @@
 {
   "outlooks": {
     "atlanticOutlook": {
-      "desc": "\n <br />\n 654 <br />\n ABNT20 KNHC 181714<br />\n TWOAT <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 100 PM EST Mon Nov 18 2024<br />\n <br />\n For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />\n <br />\n Tropical cyclone formation is not expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Papin<br />\n <br />\n \n",
+      "desc": "\n <br />\n 000<br />\n ABNT20 KNHC 181714<br />\n TWOAT <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 100 PM EST Mon Nov 18 2024<br />\n <br />\n For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />\n <br />\n Tropical cyclone formation is not expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Papin<br />\n \n",
       "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png",
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_atl_7d0.png"
     },
@@ -11,7 +11,7 @@
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_pac_7d0.png"
     },
     "centralPacificOutlook": {
-      "desc": "\n <br />\n 841 <br />\n ACPN50 PHFO 181718<br />\n TWOCP <br />\n <br />\n Tropical Weather Outlook<br />\n NWS Central Pacific Hurricane Center Honolulu HI<br />\n 800 AM HST Mon Nov 18 2024<br />\n <br />\n For the central North Pacific...between 140W and 180W:<br />\n <br />\n No tropical cyclones are expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Vaughan<br />\n <br />\n \n",
+      "desc": "\n <br />\n 000<br />\n ACPN50 PHFO 181718<br />\n TWOCP <br />\n <br />\n Tropical Weather Outlook<br />\n NWS Central Pacific Hurricane Center Honolulu HI<br />\n 800 AM HST Mon Nov 18 2024<br />\n <br />\n For the central North Pacific...between 140W and 180W:<br />\n <br />\n No tropical cyclones are expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Vaughan<br />\n \n",
       "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_cpac_2d0.png",
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_cpac_7d0.png"
     }
