@@ -1,7 +1,7 @@
 {
   "outlooks": {
     "atlanticOutlook": {
-      "desc": "\n <br />\n 000<br />\n ABNT20 KNHC 180504<br />\n TWOAT <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 100 AM EST Mon Nov 18 2024<br />\n <br />\n For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />\n <br />\n Active systems:<br />\n The National Hurricane Center is issuing advisories on Tropical <br />\n Depression Sara, located inland over the southwestern portion of <br />\n the Yucatan Peninsula. <br />\n <br />\n Tropical cyclone formation is not expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Cangialosi<br />\n \n",
+      "desc": "\n <br />\n 000<br />\n ABNT20 KNHC 181136<br />\n TWOAT <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 700 AM EST Mon Nov 18 2024<br />\n <br />\n For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />\n <br />\n Active systems:<br />\n The National Hurricane Center has issued the last advisory on the <br />\n remnants of Sara, emerging into the southwestern Gulf of Mexico <br />\n from the southwestern portion of the Yucatan Peninsula. <br />\n <br />\n Tropical cyclone formation is not expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Papin<br />\n \n",
       "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png",
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_atl_7d0.png"
     },
