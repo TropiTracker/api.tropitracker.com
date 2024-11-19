@@ -11,7 +11,7 @@
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_pac_7d0.png"
     },
     "centralPacificOutlook": {
-      "desc": "\n <br />\n 000<br />\n ACPN50 PHFO 182318<br />\n TWOCP <br />\n <br />\n Tropical Weather Outlook<br />\n NWS Central Pacific Hurricane Center Honolulu HI<br />\n 200 PM HST Mon Nov 18 2024<br />\n <br />\n For the central North Pacific...between 140W and 180W:<br />\n <br />\n No tropical cyclones are expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Vaughan<br />\n \n",
+      "desc": "\n <br />\n 000<br />\n ACPN50 PHFO 190513<br />\n TWOCP <br />\n <br />\n Tropical Weather Outlook<br />\n NWS Central Pacific Hurricane Center Honolulu HI<br />\n 800 PM HST Mon Nov 18 2024<br />\n <br />\n For the central North Pacific...between 140W and 180W:<br />\n <br />\n No tropical cyclones are expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Tsamous<br />\n \n",
       "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_cpac_2d0.png",
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_cpac_7d0.png"
     }
