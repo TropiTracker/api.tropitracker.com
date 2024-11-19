@@ -1,17 +1,17 @@
 {
   "outlooks": {
     "atlanticOutlook": {
-      "desc": "\n        000&lt;br /&gt;ABNT20 KNHC 191728&lt;br /&gt;TWOAT &lt;br /&gt;&lt;br /&gt;Tropical Weather Outlook&lt;br /&gt;NWS National Hurricane Center Miami FL&lt;br /&gt;100 PM EST Tue Nov 19 2024&lt;br /&gt;&lt;br /&gt;For the North Atlantic...Caribbean Sea and the Gulf of Mexico:&lt;br /&gt;&lt;br /&gt;Tropical cyclone formation is not expected during the next 7 days.&lt;br /&gt;&lt;br /&gt;$$&lt;br /&gt;Forecaster Pasch\n      ",
+      "desc": "\n <br />\n 000<br />\n ABNT20 KNHC 192341<br />\n TWOAT <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 700 PM EST Tue Nov 19 2024<br />\n <br />\n For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />\n <br />\n Tropical cyclone formation is not expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Berg<br />\n \n",
       "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png",
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_atl_7d0.png"
     },
     "eastPacificOutlook": {
-      "desc": "\n        854 &lt;br /&gt;ABPZ20 KNHC 191729&lt;br /&gt;TWOEP &lt;br /&gt;&lt;br /&gt;Tropical Weather Outlook&lt;br /&gt;NWS National Hurricane Center Miami FL&lt;br /&gt;1000 AM PST Tue Nov 19 2024&lt;br /&gt;&lt;br /&gt;For the eastern North Pacific...east of 140 degrees west longitude:&lt;br /&gt;&lt;br /&gt;Tropical cyclone formation is not expected during the next 7 days.&lt;br /&gt;&lt;br /&gt;$$&lt;br /&gt;Forecaster Pasch\n      ",
+      "desc": "\n <br />\n 000<br />\n ABPZ20 KNHC 192342<br />\n TWOEP <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 400 PM PST Tue Nov 19 2024<br />\n <br />\n For the eastern North Pacific...east of 140 degrees west longitude:<br />\n <br />\n Tropical cyclone formation is not expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Berg<br />\n \n",
       "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_pac_2d0.png",
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_pac_7d0.png"
     },
     "centralPacificOutlook": {
-      "desc": "\n        000&lt;br /&gt;ACPN50 PHFO 191734&lt;br /&gt;TWOCP &lt;br /&gt;&lt;br /&gt;Tropical Weather Outlook&lt;br /&gt;NWS Central Pacific Hurricane Center Honolulu HI&lt;br /&gt;800 AM HST Tue Nov 19 2024&lt;br /&gt;&lt;br /&gt;For the central North Pacific...between 140W and 180W:&lt;br /&gt;&lt;br /&gt;No tropical cyclones are expected during the next 7 days.&lt;br /&gt;&lt;br /&gt;$$&lt;br /&gt;Forecaster Wroe\n      ",
+      "desc": "\n <br />\n 000<br />\n ACPN50 PHFO 192342<br />\n TWOCP <br />\n <br />\n Tropical Weather Outlook<br />\n NWS Central Pacific Hurricane Center Honolulu HI<br />\n 200 PM HST Tue Nov 19 2024<br />\n <br />\n For the central North Pacific...between 140W and 180W:<br />\n <br />\n No tropical cyclones are expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Wroe<br />\n \n",
       "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_cpac_2d0.png",
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_cpac_7d0.png"
     }
