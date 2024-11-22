@@ -1,12 +1,12 @@
 {
   "outlooks": {
     "atlanticOutlook": {
-      "desc": "\n <br />\n 754 <br />\n ABNT20 KNHC 212310<br />\n TWOAT <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 700 PM EST Thu Nov 21 2024<br />\n <br />\n For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />\n <br />\n Tropical cyclone formation is not expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Kelly<br />\n <br />\n \n",
+      "desc": "\n <br />\n 000<br />\n ABNT20 KNHC 220503<br />\n TWOAT <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 100 AM EST Fri Nov 22 2024<br />\n <br />\n For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />\n <br />\n Tropical cyclone formation is not expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Kelly<br />\n \n",
       "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png",
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_atl_7d0.png"
     },
     "eastPacificOutlook": {
-      "desc": "\n <br />\n 000<br />\n ABPZ20 KNHC 212309<br />\n TWOEP <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 400 PM PST Thu Nov 21 2024<br />\n <br />\n For the eastern North Pacific...east of 140 degrees west longitude:<br />\n <br />\n Tropical cyclone formation is not expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Kelly<br />\n \n",
+      "desc": "\n <br />\n 000<br />\n ABPZ20 KNHC 220502<br />\n TWOEP <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 1000 PM PST Thu Nov 21 2024<br />\n <br />\n For the eastern North Pacific...east of 140 degrees west longitude:<br />\n <br />\n Tropical cyclone formation is not expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Kelly<br />\n \n",
       "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_pac_2d0.png",
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_pac_7d0.png"
     },
