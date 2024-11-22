@@ -1,20 +1,3 @@
 {
-  "activeStorms": [
-    {
-      "type": "Tropical Storm",
-      "name": "Sara",
-      "wallet": "AT4",
-      "atcf": "AL192024",
-      "datetime": "1:00 PM EST Thu Nov 14",
-      "wind": 40,
-      "category": null,
-      "pressure": "999 mb",
-      "center": "15.7, -82.9",
-      "movement": "W at 12 mph",
-      "headline": " ...DEPRESSION STRENGTHENS INTO TROPICAL STORM SARA... ...LIFE-THREATENING AND POTENTIALLY CATASTROPHIC FLASH FLOODING AND MUDSLIDES EXPECTED IN HONDURAS THROUGH THE WEEKEND...",
-      "coneTrack": "https://www.nhc.noaa.gov/storm_graphics/AT19/AL192024_5day_expCone.png",
-      "satelliteGif": "https://cdn.star.nesdis.noaa.gov/FLOATER/data/AL192024/GEOCOLOR/AL192024-GEOCOLOR-1000x1000.gif",
-      "irSatelliteGif": "https://cdn.star.nesdis.noaa.gov/FLOATER/data/AL192024/13/AL192024-13-1000x1000.gif"
-    }
-  ]
+  "activeStorms": []
 }
