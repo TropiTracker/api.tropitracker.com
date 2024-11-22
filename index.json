@@ -1,7 +1,7 @@
 {
   "outlooks": {
     "atlanticOutlook": {
-      "desc": "\n        000&lt;br /&gt;ABNT20 KNHC 221116&lt;br /&gt;TWOAT &lt;br /&gt;&lt;br /&gt;Tropical Weather Outlook&lt;br /&gt;NWS National Hurricane Center Miami FL&lt;br /&gt;700 AM EST Fri Nov 22 2024&lt;br /&gt;&lt;br /&gt;For the North Atlantic...Caribbean Sea and the Gulf of Mexico:&lt;br /&gt;&lt;br /&gt;Tropical cyclone formation is not expected during the next 7 days.&lt;br /&gt;&lt;br /&gt;$$&lt;br /&gt;Forecaster Beven\n      ",
+      "desc": "\n        630 &lt;br /&gt;ABNT20 KNHC 221730&lt;br /&gt;TWOAT &lt;br /&gt;&lt;br /&gt;Tropical Weather Outlook&lt;br /&gt;NWS National Hurricane Center Miami FL&lt;br /&gt;100 PM EST Fri Nov 22 2024&lt;br /&gt;&lt;br /&gt;For the North Atlantic...Caribbean Sea and the Gulf of Mexico:&lt;br /&gt;&lt;br /&gt;Tropical cyclone formation is not expected during the next 7 days.&lt;br /&gt;&lt;br /&gt;$$&lt;br /&gt;Forecaster Beven\n      ",
       "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png",
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_atl_7d0.png"
     },
