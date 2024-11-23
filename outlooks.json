@@ -1,7 +1,7 @@
 {
   "outlooks": {
     "atlanticOutlook": {
-      "desc": "\n <br />\n 000<br />\n ABNT20 KNHC 231719<br />\n TWOAT <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 100 PM EST Sat Nov 23 2024<br />\n <br />\n For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />\n <br />\n Tropical cyclone formation is not expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Beven<br />\n \n",
+      "desc": "\n <br />\n 075 <br />\n ABNT20 KNHC 231719<br />\n TWOAT <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 100 PM EST Sat Nov 23 2024<br />\n <br />\n For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />\n <br />\n Tropical cyclone formation is not expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Beven<br />\n <br />\n \n",
       "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png",
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_atl_7d0.png"
     },
@@ -11,7 +11,7 @@
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_pac_7d0.png"
     },
     "centralPacificOutlook": {
-      "desc": "\n <br />\n 640 <br />\n ACPN50 PHFO 231159<br />\n TWOCP <br />\n <br />\n Tropical Weather Outlook<br />\n NWS Central Pacific Hurricane Center Honolulu HI<br />\n Issued by NWS National Hurricane Center Miami FL<br />\n 200 AM HST Sat Nov 23 2024<br />\n <br />\n For the central North Pacific...between 140W and 180W:<br />\n <br />\n No tropical cyclones are expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Beven<br />\n <br />\n <br />\n \n",
+      "desc": "\n <br />\n 859 <br />\n ACPN50 PHFO 231735<br />\n TWOCP <br />\n <br />\n Tropical Weather Outlook<br />\n NWS Central Pacific Hurricane Center Honolulu HI<br />\n Issued by NWS National Hurricane Center Miami FL<br />\n 800 AM HST Sat Nov 23 2024<br />\n <br />\n For the central North Pacific...between 140W and 180W:<br />\n <br />\n No tropical cyclones are expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Beven<br />\n <br />\n \n",
       "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_cpac_2d0.png",
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_cpac_7d0.png"
     }
