@@ -1,17 +1,17 @@
 {
   "outlooks": {
     "atlanticOutlook": {
-      "desc": "\n <br />\n 649 <br />\n ABNT20 KNHC 271720<br />\n TWOAT <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 100 PM EST Wed Nov 27 2024<br />\n <br />\n For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />\n <br />\n Tropical cyclone formation is not expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Bucci<br />\n <br />\n \n",
+      "desc": "\n <br />\n 000<br />\n ABNT20 KNHC 272315<br />\n TWOAT <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 700 PM EST Wed Nov 27 2024<br />\n <br />\n For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />\n <br />\n Tropical cyclone formation is not expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Beven<br />\n \n",
       "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png",
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_atl_7d0.png"
     },
     "eastPacificOutlook": {
-      "desc": "\n <br />\n 000<br />\n ABPZ20 KNHC 271720<br />\n TWOEP <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 1000 AM PST Wed Nov 27 2024<br />\n <br />\n For the eastern North Pacific...east of 140 degrees west longitude:<br />\n <br />\n Tropical cyclone formation is not expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Bucci<br />\n \n",
+      "desc": "\n <br />\n 000<br />\n ABPZ20 KNHC 272316<br />\n TWOEP <br />\n <br />\n Tropical Weather Outlook<br />\n NWS National Hurricane Center Miami FL<br />\n 400 PM PST Wed Nov 27 2024<br />\n <br />\n For the eastern North Pacific...east of 140 degrees west longitude:<br />\n <br />\n Tropical cyclone formation is not expected during the next 7 days.<br />\n <br />\n $$<br />\n Forecaster Beven<br />\n \n",
       "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_pac_2d0.png",
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_pac_7d0.png"
     },
     "centralPacificOutlook": {
-      "desc": "\n <br />\n 000<br />\n ACPN50 PHFO 271716<br />\n TWOCP <br />\n <br />\n Tropical Weather Outlook<br />\n NWS Central Pacific Hurricane Center Honolulu HI<br />\n 800 AM HST Wed Nov 27 2024<br />\n <br />\n For the central North Pacific...between 140W and 180W:<br />\n <br />\n No tropical cyclones are expected during the next 7 days.<br />\n <br />\n The central North Pacific hurricane season officially ends on <br />\n November 30. The final Tropical Weather Outlook of the season will <br />\n be issued at 8 PM HST on November 30. Routine issuance of the <br />\n Tropical Weather Outlook will resume on June 1, 2025. During the <br />\n off-season, Special Tropical Weather Outlooks will be issued as <br />\n conditions warrant. <br />\n <br />\n $$<br />\n Forecaster Blood<br />\n \n",
+      "desc": "\n <br />\n 000<br />\n ACPN50 PHFO 272324<br />\n TWOCP <br />\n <br />\n Tropical Weather Outlook<br />\n NWS Central Pacific Hurricane Center Honolulu HI<br />\n 200 PM HST Wed Nov 27 2024<br />\n <br />\n For the central North Pacific...between 140W and 180W:<br />\n <br />\n No tropical cyclones are expected during the next 7 days.<br />\n <br />\n The central North Pacific hurricane season officially ends on <br />\n November 30. The final Tropical Weather Outlook of the season will <br />\n be issued at 8 PM HST on November 30. Routine issuance of the <br />\n Tropical Weather Outlook will resume on June 1, 2025. During the <br />\n off-season, Special Tropical Weather Outlooks will be issued as <br />\n conditions warrant. <br />\n <br />\n $$<br />\n Forecaster Blood<br />\n \n",
       "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_cpac_2d0.png",
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_cpac_7d0.png"
     }
