@@ -12,6 +12,7 @@ var json;
 var jsonHurricanes;
 var jsonTropicalStorms;
 var jsonTropicalDepressions;
+var jsonOutlooks;
 
 async function loadApi() {
     const atlanticOutlook = await outlooks.functions.getAtlanticOutlook();
@@ -77,7 +78,7 @@ async function loadOutlooks() {
     const eastPacificOutlook = await outlooks.functions.getEastPacificOutlook();
     const centralPacificOutlook = await outlooks.functions.getCentralPacificOutlook();
 
-    json = {
+    jsonOutlooks = {
         outlooks: {
             atlanticOutlook: atlanticOutlook, 
             eastPacificOutlook: eastPacificOutlook, 
@@ -85,7 +86,7 @@ async function loadOutlooks() {
         }
     }
 
-    fs.writeFileSync('outlooks.json', JSON.stringify(json, null, 2));
+    fs.writeFileSync('outlooks.json', JSON.stringify(jsonOutlooks, null, 2));
 }
 
 loadOutlooks();
@@ -106,6 +107,10 @@ loadOutlooks();
 
 // app.get('/tropical-depressions.json', async (req, res) => {
 //     res.json(jsonTropicalDepressions);
+// })
+
+// app.get('/outlooks.json', async (req, res) => {
+//     res.json(jsonOutlooks);
 // })
 
 // app.listen(port, () => {
