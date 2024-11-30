@@ -11,7 +11,7 @@
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_pac_7d0.png"
     },
     "centralPacificOutlook": {
-      "desc": "\n \n\n 000\n\n ACPN50 PHFO 292331\n\n TWOCP \n\n \n\n Tropical Weather Outlook\n\n NWS Central Pacific Hurricane Center Honolulu HI\n\n 200 PM HST Fri Nov 29 2024\n\n \n\n For the central North Pacific...between 140W and 180W:\n\n \n\n No tropical cyclones are expected during the next 7 days.\n\n \n\n The central North Pacific hurricane season officially ends on \n\n November 30. The final Tropical Weather Outlook of the season will \n\n be issued at 8 PM HST on November 30. Routine issuance of the \n\n Tropical Weather Outlook will resume on June 1, 2025. During the \n\n off-season, Special Tropical Weather Outlooks will be issued as \n\n conditions warrant. \n\n \n\n $$\n\n Forecaster Vaughan\n\n \n",
+      "desc": "\n \n\n 000\n\n ACPN50 PHFO 300552\n\n TWOCP \n\n \n\n Tropical Weather Outlook\n\n NWS Central Pacific Hurricane Center Honolulu HI\n\n 800 PM HST Fri Nov 29 2024\n\n \n\n For the central North Pacific...between 140W and 180W:\n\n \n\n No tropical cyclones are expected during the next 7 days.\n\n \n\n The central North Pacific hurricane season officially ends on \n\n November 30. The final Tropical Weather Outlook of the season will \n\n be issued at 8 PM HST on November 30. Routine issuance of the \n\n Tropical Weather Outlook will resume on June 1, 2025. During the \n\n off-season, Special Tropical Weather Outlooks will be issued as \n\n conditions warrant. \n\n \n\n $$\n\n Forecaster Powell\n\n \n",
       "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_cpac_2d0.png",
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_cpac_7d0.png"
     }
