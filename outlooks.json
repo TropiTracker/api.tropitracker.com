@@ -6,7 +6,7 @@
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_atl_7d0.png"
     },
     "eastPacificOutlook": {
-      "desc": "\n \n\n 000\n\n ABPZ20 KNHC 302332\n\n TWOEP \n\n \n\n Tropical Weather Outlook\n\n NWS National Hurricane Center Miami FL\n\n 400 PM PST Sat Nov 30 2024\n\n \n\n For the eastern North Pacific...east of 140 degrees west longitude:\n\n \n\n Tropical cyclone formation is not expected during the next 7 days.\n\n \n\n $$\n\n Forecaster Beven\n\n \n\n \n",
+      "desc": "\n \n\n 000\n\n ABPZ20 KNHC 010500\n\n TWOEP \n\n \n\n Tropical Weather Outlook\n\n NWS National Hurricane Center Miami FL\n\n 1000 PM PST Sat Nov 30 2024\n\n \n\n For the eastern North Pacific...east of 140 degrees west longitude:\n\n \n\n Tropical cyclone formation is not expected during the next 7 days.\n\n \n\n This is the last regularly scheduled Tropical Weather Outlook of \n\n the 2024 eastern North Pacific Hurricane Season.  Routine issuance \n\n of the Tropical Weather Outlook will resume on May 15, 2025. During \n\n the off-season, Special Tropical Weather Outlooks will be issued as \n\n conditions warrant.\n\n \n\n $$\n\n Forecaster Beven\n\n \n\n \n",
       "twoDayImage": "https://www.nhc.noaa.gov/xgtwo/two_pac_2d0.png",
       "sevenDayImage": "https://www.nhc.noaa.gov/xgtwo/two_pac_7d0.png"
     },
