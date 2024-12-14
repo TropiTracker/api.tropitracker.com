@@ -2,7 +2,7 @@
 This is the official API used by TropiTracker. All information is fetched from the NHC, and the API is updated every 5 minutes.
 
 # Using
-To get all outlooks, active tropical cyclones, & potential tropical cyclones, fetch https://api.tropitracker.com/.json
+To get all outlooks, active tropical cyclones, & potential tropical cyclones, fetch https://api.tropitracker.com/index.json
 
 To get all active hurricanes, fetch https://api.tropitracker.com/hurricanes.json
 
