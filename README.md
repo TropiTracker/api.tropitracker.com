@@ -34,10 +34,10 @@ As of now, the API stores:
     - Latest NHC headline
 
 Along with a few extra features that the NHC does not natively store:
-    - Category (Saffir-Simpson scale, based off max. sustained winds)
-    - Cone tracks (newer NHC cone tracks which show how far inland the warnings go)
-    - Satellite gif
-    - Infrared satellite gif
+- Category (Saffir-Simpson scale, based off max. sustained winds)
+- Cone tracks (newer NHC cone tracks which show how far inland the warnings go)
+- Satellite gif
+- Infrared satellite gif
 
 # Want something added?
 If you would like more features to be added, simply submit a request and I will respond as quick as I can.
