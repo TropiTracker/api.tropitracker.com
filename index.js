@@ -23,8 +23,8 @@ async function loadApi() {
 
     json = {
         outlooks: {
-            atlanticOutlook: atlanticOutlook, 
-            eastPacificOutlook: eastPacificOutlook, 
+            atlanticOutlook: atlanticOutlook,
+            eastPacificOutlook: eastPacificOutlook,
             centralPacificOutlook: centralPacificOutlook
         },
         activeStorms
@@ -80,8 +80,8 @@ async function loadOutlooks() {
 
     jsonOutlooks = {
         outlooks: {
-            atlanticOutlook: atlanticOutlook, 
-            eastPacificOutlook: eastPacificOutlook, 
+            atlanticOutlook: atlanticOutlook,
+            eastPacificOutlook: eastPacificOutlook,
             centralPacificOutlook: centralPacificOutlook
         }
     }
